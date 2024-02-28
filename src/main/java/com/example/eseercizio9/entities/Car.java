@@ -6,11 +6,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.time.LocalDate;
-/*primary key
-modelName not null
-serialNumber not null
-currentPrice che può essere null*/
 @Entity
 @Table
 @Data
